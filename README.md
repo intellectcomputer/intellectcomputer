@@ -1,33 +1,105 @@
-# Intellect Computers – Who We Are  
-![IT Training](https://img.shields.io/badge/IT-Training-blue) ![Experience](https://img.shields.io/badge/Experience-25%2B%20years-orange) ![Placement Assistance](https://img.shields.io/badge/Placement-Assistance-green)
+# Intellect Computers 🚀
 
-## Executive Summary  
-Intellect Computers is a government-authorized IT training institute in Surat with a 25+ year history of career-focused education.  Founded in 2000 by Mrs. Radhika Saraiya, it operates as a “career launchpad” – not just a coaching center – combining university-subject coaching (BCA/MCA) with industry-oriented internships, live project training and placement support. The institute emphasizes hands-on learning and small, personalized classes (8–15 students) led by experienced faculty.  To date, Intellect has trained over 1,000 students and maintains a ~95% pass/success rate on exams and placements.  
+![Experience](https://img.shields.io/badge/Experience-25%2B%20Years-orange)
+![Students](https://img.shields.io/badge/Students-1000%2B-blue)
+![Success Rate](https://img.shields.io/badge/Success-95%25-success)
 
-## Legacy & History  
-Intellect Computers was established in Surat in 2000 by Mrs. Radhika Saraiya.  Over 25+ years, the institute has built a reputation for trusted **education excellence**.  From a modest beginning, it has grown into a top-ranked institute (“Surat’s most trusted institute”) offering both university tuition (BCA/MCA/BSc IT/MSc IT) and professional short courses.  The founder’s goal was to create a practical, student-focused learning environment – symbolized by the motto *“Build your Logic”* – and this legacy endures today.  Intellect’s history is marked by steady growth (surpassing 1,000+ alumni) and a decade-spanning record of students achieving top ranks in their universities. 
+🌐 Website: https://intellectcomputers.in
 
-## Mission & Values  
-Intellect Computers’ mission is to provide **practical, career-oriented IT education**.  “Teaching is not just my profession; it is my lifelong passion,” says founder Radhika Saraiya, and the institute’s programs reflect this philosophy.  The *Intellect Way* emphasizes real-world skills: students **code from day one**, working on live applications and internships rather than just theory.  Core values include: 
+---
 
-- **Practical Coding:** Hands-on software development (not just lectures) to build real-world skills.  
-- **Career Growth:** Honest mentorship and personal guidance (small batches of 8–15) to prepare capable professionals.  
-- **Live Projects:** Industry-aligned internships and final-year projects for clear insight into how technology works in practice.  
+## 👨‍💻 Who We Are
 
-Together, these values have guided Intellect’s approach: students learn with *full confidence*, often achieving high exam results and securing IT jobs quickly after graduation. 
+At **Intellect Computers**, we are driven by a singular vision — to build strong logical thinkers and confident IT professionals.
 
-## Leadership Team  
-### Mrs. Radhika Saraiya – Founder & Principal Instructor  
-Mrs. Radhika Saraiya founded Intellect Computers and remains its driving force.  A BCA/MCA specialist with 25+ years’ teaching experience, she emphasizes simple, practical explanations over rote theory.  Under her leadership, every batch is kept small (8–15 students) so she can mentor each student personally.  Radhika also conducts corporate training for professionals and insists on *live project* learning – students build real apps and portfolios under her guidance. Her passion for teaching (as she puts it, *“my lifelong passion”*) is reflected in the institute’s 95% success rate and numerous university rank holders among alumni.  
+Founded in 2000, we have grown into one of Surat’s most trusted names in computer education. What started as a small initiative has evolved into a learning ecosystem focused on clarity, practical understanding, and long-term student success.
 
-### Intellect Faculty & Mentors  
-A team of expert instructors supports the institute’s mission of personalized IT education. Led by Mrs. Saraiya, the **faculty** brings industry and academic experience to the classroom.  Instructors work closely with students on projects and provide one-to-one guidance.  According to the site, *“Intellect Computers delivers industry-aligned… training with small batch sizes”*.  This ensures every learner—from beginners to advanced—receives personal attention and career advice. The friendly, supportive teaching style and weekend doubt sessions (as students note in testimonials) underscore the team’s dedication.  
+We believe that education is not just about information — it is about transformation. Every student who walks into Intellect becomes part of a journey where logic, confidence, and real-world thinking are developed step by step.
 
-## Key Milestones (Timeline)  
+---
 
-| Year | Event                                                                                  |
-|------|----------------------------------------------------------------------------------------|
-| 2000 | Institute founded in Surat by Mrs. Radhika Saraiya.    |
-| 2026 | Surpassed **1,000 students trained** with ~95% success rate. (25+ years of operation) |
+## 🏛️ Our Legacy
 
-*Sources: Intellect Computers official website (About, Testimonials, courses pages).*
+With over **25+ years of excellence**, Intellect Computers stands as a symbol of consistency, trust, and results.
+
+- Established in **2000**
+- Built a strong community of **1000+ students**
+- Maintained a consistent **~95% success rate**
+- Recognized for producing university rankers and high-performing students
+
+Our legacy is rooted in one philosophy:
+
+> **“Build your Logic”**
+
+This principle continues to define who we are and how we shape minds.
+
+---
+
+## 🎯 Our Philosophy
+
+At Intellect Computers, we follow a simple but powerful approach:
+
+- Learning should be **practical and clear**
+- Concepts should be understood, not memorized
+- Growth should be **consistent and measurable**
+- Every student deserves **personal attention**
+
+We focus on building **strong fundamentals**, enabling students to think independently and solve problems with confidence.
+
+---
+
+## 🌱 Our Values
+
+### 🔹 Practical Thinking
+We emphasize real understanding over theoretical complexity.
+
+### 🔹 Personal Mentorship
+Small batch sizes ensure every student gets focused guidance.
+
+### 🔹 Consistency & Discipline
+Long-term success is built through structured and continuous learning.
+
+### 🔹 Confidence Building
+We don’t just teach — we help students believe in their abilities.
+
+---
+
+## 👩‍🏫 Leadership
+
+### **Mrs. Radhika Saraiya**  
+*Founder & Mentor*
+
+With over 25+ years of teaching experience, Mrs. Radhika Saraiya is the foundation of Intellect Computers.
+
+Her teaching philosophy is simple:
+> *“Teaching is not just my profession; it is my lifelong passion.”*
+
+She focuses on simplifying complex concepts, ensuring that every student understands deeply rather than learning superficially. Her dedication and mentorship have shaped hundreds of successful careers.
+
+---
+
+## 📊 Milestones
+
+| Year | Achievement |
+|------|------------|
+| 2000 | Intellect Computers was founded |
+| 2010+ | Established strong reputation in IT education |
+| 2020+ | Crossed 1000+ trained students |
+| 2026 | 25+ years of continuous excellence |
+
+---
+
+## 🚀 Our Identity
+
+We are not just an institute.  
+We are a **foundation for logical thinking**, a **community of learners**, and a **legacy of trust**.
+
+---
+
+## 📌 Connect With Us
+
+🌐 https://intellectcomputers.in
+
+---
+
+> *Building Logic. Creating Confidence. Shaping Futures.*
